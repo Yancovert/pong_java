@@ -1,1 +1,5 @@
-out/\n*.class\n*.jar\n.idea/\n.vscode/
+# out/
+# *.class
+# *.jar
+.idea/
+.vscode/
